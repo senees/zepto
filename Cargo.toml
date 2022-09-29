@@ -1,0 +1,9 @@
+[package]
+name = "zepto"
+version = "0.0.1"
+authors = ["Dariusz Depta <dariusz.depta@engos.software>"]
+description = "zepto"
+documentation = "https://docs.rs/zepto"
+repository = "https://github.com/EngosSoftware/zepto.git"
+license = "MIT"
+edition = "2021"
