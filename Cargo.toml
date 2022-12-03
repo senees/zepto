@@ -1,7 +1,7 @@
 [package]
 name = "zepto"
 version = "0.0.2"
-authors = ["senees <code@senees.de>"]
+authors = ["Dariusz Depta <depta@senees.de>"]
 description = "zepto"
 documentation = "https://docs.rs/zepto"
 repository = "https://github.com/senees/zepto.git"
